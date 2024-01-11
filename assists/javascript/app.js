@@ -1,5 +1,4 @@
 const mainMenu = document.querySelector(".mainMenu");
-console.log(mainMenu)
 const openMenu = document.querySelector(".openMenu");
 const closeMenu = document.querySelector(".closeMenu");
 openMenu.addEventListener("click", show);
